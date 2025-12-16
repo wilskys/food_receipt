@@ -115,7 +115,7 @@ lib/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/food-receipt-app.git
+git clone https://github.com/wilskys/food_receipt
 ```
 
 ### 2. Install dependencies
@@ -143,7 +143,7 @@ flutter run
 ## 👨‍💻 Author
 
 Developed by **Your Name**  
-📧 Email: your.email@example.com
+📧 Email: wildan.romiza@gmail.com
 
 ---
 
