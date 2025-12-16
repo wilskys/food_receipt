@@ -32,9 +32,12 @@ Built with **Flutter**, **Riverpod**, **GoRouter**, and **SQLite**, this app foc
 
 ### Splash & Home
 
-![Splash Screen](screenshots/splash1.png)
-![Splash Screen](screenshots/splash2.png)
-![Splash Screen](screenshots/splash3.png)
+<p align="center">
+  <img src="screenshots/splash1.png" width="180" />
+  <img src="screenshots/splash2.png" width="180" />
+  <img src="screenshots/splash3.png" width="180" />
+</p>
+
 ![Home Page](screenshots/home.png)
 
 ### Recipe & Detail
