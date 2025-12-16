@@ -32,23 +32,35 @@ Built with **Flutter**, **Riverpod**, **GoRouter**, and **SQLite**, this app foc
 
 ### Splash & Home
 
-<p align="center"> <img src="screenshots/splash1.png" width="180" /> <img src="screenshots/splash2.png" width="180" /> <img src="screenshots/splash3.png" width="180" /> </p> <p align="center"> <img src="screenshots/home.png" width="420" /> </p>
-
-![Home Page](screenshots/home.png)
+<p align="center"> 
+  <img src="screenshots/splash1.png" width="180" /> 
+  <img src="screenshots/splash2.png" width="180" />
+  <img src="screenshots/splash3.png" width="180" /> 
+</p> 
+ <p align="center"> <img src="screenshots/home.png" width="420" /> </p>
 
 ### Recipe & Detail
 
-![Recipe List](screenshots/recipe_list.png)
-![Recipe Detail](screenshots/recipe_detail.png)
+<p align="center"> 
+  <img src="screenshots/recipe_list.png" width="180" /> 
+  <img src="screenshots/recipe_detail1.png" width="180" />
+  <img src="screenshots/recipe_detail2.png" width="180" />
+</p>
 
 ### Favorites
 
-![Favorites](screenshots/favorites.png)
+<p align="center"> 
+  <img src="screenshots/favorites.png" width="180" /> 
+ 
+</p>
 
 ### Blog
 
-![Blog List](screenshots/blog_list.png)
-![Blog Detail](screenshots/blog_detail.png)
+<p align="center"> 
+  <img src="screenshots/blog_list.png" width="180" /> 
+    <img src="screenshots/blog_detail.png" width="180" /> 
+ 
+</p>
 
 ---
 
