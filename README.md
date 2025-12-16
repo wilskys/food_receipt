@@ -90,6 +90,7 @@ Built with **Flutter**, **Riverpod**, **GoRouter**, and **SQLite**, this app foc
 
 ```text
 lib/
+├── config/
 ├── core/
 │   ├── dio_client.dart
 │   └── widgets/
@@ -100,6 +101,8 @@ lib/
 │   ├── blog/
 │   └── meal_detail/
 ├── models/
+├── data/
+├── local_db/
 ├── providers/
 ├── repositories/
 └── routes/
