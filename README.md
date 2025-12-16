@@ -32,16 +32,16 @@ Built with **Flutter**, **Riverpod**, **GoRouter**, and **SQLite**, this app foc
 
 ### Splash & Home
 
-<p align="center"> 
+<p align=""> 
   <img src="screenshots/splash1.png" width="180" /> 
   <img src="screenshots/splash2.png" width="180" />
   <img src="screenshots/splash3.png" width="180" /> 
 </p> 
- <p align="center"> <img src="screenshots/home.png" width="420" /> </p>
+ <p align=""> <img src="screenshots/home.png" width="420" /> </p>
 
 ### Recipe & Detail
 
-<p align="center"> 
+<p align=""> 
   <img src="screenshots/recipe_list.png" width="180" /> 
   <img src="screenshots/recipe_detail1.png" width="180" />
   <img src="screenshots/recipe_detail2.png" width="180" />
@@ -49,14 +49,14 @@ Built with **Flutter**, **Riverpod**, **GoRouter**, and **SQLite**, this app foc
 
 ### Favorites
 
-<p align="center"> 
+<p align=""> 
   <img src="screenshots/favorites.png" width="180" /> 
  
 </p>
 
 ### Blog
 
-<p align="center"> 
+<p align=""> 
   <img src="screenshots/blog_list.png" width="180" /> 
     <img src="screenshots/blog_detail.png" width="180" /> 
  
